@@ -63,7 +63,7 @@
 }
 
 .multicolumn:not(.background-none) .multicolumn-card {
-  background: yellow;
+  background: purple;
   height: 100%;
 }
 
