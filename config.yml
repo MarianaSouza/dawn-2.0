@@ -1,0 +1,4 @@
+development:
+  password: ${DAWN_DEV_PASSWD}
+  theme_id: ${DAWN_DEV_THEMEID}
+  store: ${DAWN_DEV_SHOP}
