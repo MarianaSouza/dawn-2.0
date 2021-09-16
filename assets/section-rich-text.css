@@ -12,6 +12,7 @@
   margin: auto;
   /* 2.5rem margin on left & right */
   width: calc(100% - 5rem);
+  background-color: palegoldenrod;
 }
 
 .rich-text__blocks * {
