@@ -1,0 +1,4 @@
+/* This is the index template where we're importing all the Sass stylesheets */
+body {
+  background-color: #e05788 !important;
+}
