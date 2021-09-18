@@ -1,0 +1,25 @@
+{
+  "name": "dawn-2.0",
+  "version": "1.0.0",
+  "description": "Dawn theme from Shopify for testing purposes",
+  "scripts": {
+    "push": "gulp sass && shopify theme push",
+    "serve": "concurrently \"gulp watch\" \"shopify theme serve\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianaSouza/dawn-2.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianaSouza/dawn-2.0/issues"
+  },
+  "homepage": "https://github.com/MarianaSouza/dawn-2.0#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.41.1",
+    "concurrently": "^6.2.1"
+  }
+}
