@@ -4,7 +4,7 @@
   "description": "Dawn theme from Shopify for testing purposes",
   "scripts": {
     "push": "npx gulp sass && shopify theme push",
-    "serve": "concurrently \"npx gulp watch\" \"shopify theme serve\""
+    "serve": "npx concurrently \"npx gulp watch\" \"shopify theme serve\""
   },
   "repository": {
     "type": "git",
