@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Dawn theme from Shopify for testing purposes",
   "scripts": {
-    "push": "gulp sass && shopify theme push",
-    "serve": "concurrently \"gulp watch\" \"shopify theme serve\""
+    "push": "npx gulp sass && shopify theme push",
+    "serve": "concurrently \"npx gulp watch\" \"shopify theme serve\""
   },
   "repository": {
     "type": "git",
